@@ -81,16 +81,17 @@ body {
     margin-right: 5px;
     padding: 5px 15px;
     font-size: 14px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-weight: 600;
-    background-color: #eeff00;
+    background-color: #2f302f;
     border: none;
     border-radius: 4px;
     cursor: pointer;
   }
   
   .btn-danger {
-    background-color: #eb0017;
+    background-color: #ffa31a;
+    color: rgb(0, 0, 0);
   }
   
   .btn:hover {
